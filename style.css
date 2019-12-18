@@ -12,18 +12,38 @@ div {
   background-color: blue;
 }
 
+#header:hover {
+  height: 200px;
+}
+
 #footer {
   background-color: black;
+}
+
+#footer:hover {
+  height: 200px;
 }
 
 .important {
   background-color: red;
 }
 
+.important:hover {
+  height: 200px;
+}
+
 .interesting {
   background-color: green;
 }
 
+.interesting:hover {
+  height: 200px;
+}
+
 .surprising {
   background-color: orange;
+}
+
+.surprising:hover {
+  height: 200px;
 }
